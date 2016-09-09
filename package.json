@@ -1,0 +1,16 @@
+{
+  "name": "time_tracking",
+  "version": "0.0.1",
+  "private": true,
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/juan267/time_tracking.git"
+  },
+  "bugs": {
+    "url": "https://github.com/juan267/time_tracking/issues"
+  },
+  "homepage": "https://github.com/juan267/time_tracking",
+  "keywords": [],
+  "license": "MIT"
+}
